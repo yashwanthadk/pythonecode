@@ -1,0 +1,8 @@
+name=input("Enter the name")
+age=int(input("Enter the age"))
+emp_id=int(input("Enter the id"))
+ph_no=int(input("Entr the phone numberr"))
+print(name)
+print(age)
+print(emp_id)
+print(ph_no)
